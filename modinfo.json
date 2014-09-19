@@ -1,8 +1,8 @@
 {
     "context": "server",
-    "identifier": "com.Maldor96.Balance.OverArc",
-    "display_name": "Maldor96's Balancing",
-    "description": "First Step into the PA modding community",
+    "identifier": "com.Maldor96.Weapons.UberCannon",
+    "display_name": "UberCannon Changes",
+    "description": "Changing the Ubershot to be more useful",
     "author": "Maldor96",
     "version": "1.0",
     "build": "71937",
@@ -11,6 +11,5 @@
         "in-game",
         "server-mod"
     ],
-    "icon": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/Mini%20balance%20mods/bCommanderExplosionBuff.png",
     "enabled": true
 }
