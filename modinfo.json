@@ -12,4 +12,5 @@
   "enabled": true, 
   "identifier": "com.Maldor96.Weapons.UberCannon", 
   "version": "1.0"
+  "priority": 100,
 }
